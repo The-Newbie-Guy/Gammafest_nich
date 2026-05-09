@@ -1,3 +1,8 @@
+```
+# Jupyter notebooks
+*.ipynb
+# Data files
+*.csv
 ```gitignore
 # Compiled and build artifacts
 *.pyc
